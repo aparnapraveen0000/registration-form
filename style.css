@@ -1,0 +1,28 @@
+#register-form{
+    background-color: rgb(28, 21, 80);
+}
+
+
+label{
+    color:rgb(250, 249, 249);
+    font-size:15px ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:100px 
+}
+button{
+    color:rgb(28, 21, 80);
+    background-color: rgb(139, 127, 227);
+   padding: 15px 32px;
+  text-align: center;
+  text-decoration:none ;
+  font-size: 16px;
+  font: weight 100px;
+   
+   
+}
+h1{
+    color:rgb(9, 9, 90)
+}
+h4{
+    color:rgb(109, 96, 183)
+}
